@@ -1,0 +1,10 @@
+C:\Users\maheshar\source\repos\BankApp\BankApp\bin\Release\netcoreapp3.1\win-x64\BankApp.exe
+C:\Users\maheshar\source\repos\BankApp\BankApp\bin\Release\netcoreapp3.1\win-x64\BankApp.deps.json
+C:\Users\maheshar\source\repos\BankApp\BankApp\bin\Release\netcoreapp3.1\win-x64\BankApp.runtimeconfig.json
+C:\Users\maheshar\source\repos\BankApp\BankApp\bin\Release\netcoreapp3.1\win-x64\BankApp.runtimeconfig.dev.json
+C:\Users\maheshar\source\repos\BankApp\BankApp\bin\Release\netcoreapp3.1\win-x64\BankApp.dll
+C:\Users\maheshar\source\repos\BankApp\BankApp\bin\Release\netcoreapp3.1\win-x64\BankApp.pdb
+C:\Users\maheshar\source\repos\BankApp\BankApp\obj\Release\netcoreapp3.1\win-x64\BankApp.AssemblyInfoInputs.cache
+C:\Users\maheshar\source\repos\BankApp\BankApp\obj\Release\netcoreapp3.1\win-x64\BankApp.AssemblyInfo.cs
+C:\Users\maheshar\source\repos\BankApp\BankApp\obj\Release\netcoreapp3.1\win-x64\BankApp.dll
+C:\Users\maheshar\source\repos\BankApp\BankApp\obj\Release\netcoreapp3.1\win-x64\BankApp.pdb
